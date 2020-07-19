@@ -6,4 +6,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/onesh.goel/)
 [![GMail](https://img.shields.io/badge/GMail-contact-D44638.svg?logo=gmail&logoColor=white)](mailto:vanshg395@gmail.com)
 
-![](https://i.ibb.co/rvf1qtm/carbon.png)
+![Info](https://i.ibb.co/fnJCR6m/carbon-2.png)
