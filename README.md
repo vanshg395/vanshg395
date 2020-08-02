@@ -7,3 +7,7 @@
 [![GMail](https://img.shields.io/badge/GMail-contact-D44638.svg?logo=gmail&logoColor=white)](mailto:vanshg395@gmail.com)
 
 ![Info](https://i.ibb.co/fnJCR6m/carbon-2.png)
+
+---
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vanshg395&show_icons=true&hide_border=false&count_private=true&theme=tokyonight&include_all_commits=true" alt="My Contributions"></p>
