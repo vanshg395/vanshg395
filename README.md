@@ -17,7 +17,7 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-	      <span><strong>Dart</strong></span><br><br>
+	<span><strong>Dart</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
       </td>
       <td width="25%" align="center">
@@ -32,18 +32,10 @@
         <span><strong>C++</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
-      <!-- <td width="25%" align="center">
-        <span><strong>Deno</strong></span><br><br><br>
-        <img height="64px" src="https://github.com/denolib/high-res-deno-logo/blob/master/deno_hr_circle.png">
-      </td> -->
     </tr>
     <tr valign="top">
-      <!-- <td width="25%" align="center">
-        <span><strong>GraphQL</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
-      </td> -->
       <td width="25%" align="center">
-	      <span><strong>Flutter</strong></span><br><br>
+	<span><strong>Flutter</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
       </td>
       <td width="25%" align="center">
@@ -69,6 +61,8 @@
       <td width="25%" align="center">
         <span><strong>Vs Code</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="25%" align="center" style="border: 0">
       </td>
     </tr>
     <tr valign="top">
