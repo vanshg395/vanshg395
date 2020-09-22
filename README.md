@@ -11,4 +11,88 @@
 
 ---
 
+## My Skill Stack
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+	      <span><strong>Dart</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Python</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>JavaScript</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>C++</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+      </td>
+      <!-- <td width="25%" align="center">
+        <span><strong>Deno</strong></span><br><br><br>
+        <img height="64px" src="https://github.com/denolib/high-res-deno-logo/blob/master/deno_hr_circle.png">
+      </td> -->
+    </tr>
+    <tr valign="top">
+      <!-- <td width="25%" align="center">
+        <span><strong>GraphQL</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
+      </td> -->
+      <td width="25%" align="center">
+	      <span><strong>Flutter</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Firebase</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Node.Js</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>MongoDB</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center" style="border: 0">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Git</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Vs Code</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Figma</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/figma.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Adobe XD</strong></span><br><br>
+        <img height="64px" src="https://i.ibb.co/g7bVyF0/1200px-Adobe-XD-CC-icon-svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Illustrator</strong></span><br><br>
+        <img height="64px" src="https://i.ibb.co/0JMTW5k/1051px-Adobe-Illustrator-CC-icon-svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Photoshop</strong></span><br><br>
+        <img height="64px" src="https://i.ibb.co/hVrhC4Y/1051px-Adobe-Photoshop-CC-icon-svg.png">
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
+<br><br>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vanshg395&show_icons=true&hide_border=false&count_private=true&theme=tokyonight&include_all_commits=true" alt="My Contributions"></p>
