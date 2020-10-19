@@ -90,3 +90,8 @@
 <br><br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vanshg395&show_icons=true&hide_border=false&count_private=true&theme=tokyonight&include_all_commits=true" alt="My Contributions"></p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vanshg395/count.svg" />
+</p>
