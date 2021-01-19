@@ -43,12 +43,12 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Node.Js</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+        <span><strong>ReactJs</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>MongoDB</strong></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+        <span><strong>HTML/CSS</strong></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
     </tr>
     <tr valign="top">
