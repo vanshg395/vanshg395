@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/onesh.goel/)
 [![GMail](https://img.shields.io/badge/GMail-contact-D44638.svg?logo=gmail&logoColor=white)](mailto:vanshg395@gmail.com)
 
-![Info](https://i.ibb.co/JscCDfz/carbon.png)
+![Info](https://i.ibb.co/Z68PMLW/carbon-2.png)
 
 ---
 
@@ -43,7 +43,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>ReactJs</strong></span><br><br>
+        <span><strong>ReactJS</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
@@ -59,7 +59,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Vs Code</strong></span><br><br>
+        <span><strong>VS Code</strong></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center" style="border: 0">
