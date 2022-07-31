@@ -89,7 +89,8 @@
 
 <br><br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vanshg395&show_icons=true&hide_border=false&count_private=true&theme=tokyonight&include_all_commits=true" alt="My Contributions"></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vanshg395&theme=dark)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshg395&show_icons=true&hide_border=false&count_private=true&theme=tokyonight&include_all_commits=true)]
 
 <p align="center"> 
   Visitor count<br>
